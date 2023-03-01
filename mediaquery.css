@@ -2,7 +2,7 @@
 
 
     body{ 
-        display: grid;
+        display: flex;
         place-content: center;  
     }
 
