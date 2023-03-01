@@ -1,0 +1,22 @@
+@media screen and (max-width: 1440px) and (min-width:1024px){
+
+
+    body{ 
+        display: grid;
+        place-content: center;  
+        grid-template-columns: 368px 368px; 
+        grid-template-rows: 100px;
+        grid-column-gap: 0px;  
+      }
+
+
+    .main{
+        margin-top: 20%;
+        border-radius: 25px;
+       
+    }
+
+    .summary{
+        margin-top: 20%;
+    }
+}
